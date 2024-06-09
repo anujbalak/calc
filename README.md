@@ -1,4 +1,4 @@
-# (CALC)[https://anujbalak.github.io/calc/]
+# [CALC](https://anujbalak.github.io/calc/)
 A basic Calculator made in HTML, CSS & JavaScript
 # FEATURES
 ---
