@@ -24,17 +24,6 @@ header {
     align-items: center;
     border: solid 1px #373f50;
 }
-
-.title {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.github-link {
-    display: flex;
-}
-
 .section {
     display: flex;
     justify-content: center;
